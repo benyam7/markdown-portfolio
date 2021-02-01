@@ -1,3 +1,3 @@
-* movies
-* games
-* music
+- movies
+- games
+- music
